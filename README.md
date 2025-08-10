@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Jaison Rocky! 👋
 
-<!--
-**d-jasondo/d-jasondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🌍 Based in **Secunderabad, Telangana, India**  
+💻 Software Developer passionate about creating innovative solutions  
+🎯 Always eager to learn new technologies and tackle challenging problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+
+- 🔭 Currently working on exciting projects  
+- 🌱 Learning and exploring new technologies  
+- 👯 Looking to collaborate on open source projects  
+- 💬 Ask me about software development, programming, and technology  
+- 📫 How to reach me: [GitHub](https://github.com/d-jasondo)  
+- ⚡ Fun fact: I love turning ideas into code!  
+
+## Skills & Technologies
+
+- Programming Languages: [Your preferred languages]  
+- Frameworks & Tools: [Your tech stack]  
+- Databases: [Your database experience]  
+- Cloud Platforms: [Your cloud experience]  
+
+## Connect with me
+
+- GitHub: [@d-jasondo](https://github.com/d-jasondo)  
+- Location: Secunderabad, TS  
+
+---
+
+*"Code is poetry written in logic."*  
+
+Thanks for visiting my profile! 🚀
