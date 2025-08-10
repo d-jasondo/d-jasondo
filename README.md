@@ -17,10 +17,10 @@
 
 ## Skills & Technologies
 
-- Programming Languages: [Your preferred languages]  
-- Frameworks & Tools: [Your tech stack]  
-- Databases: [Your database experience]  
-- Cloud Platforms: [Your cloud experience]  
+- Programming Languages: Python (Django/FastAPI), Java (Spring), C  
+- Frontend: HTML, CSS, JavaScript  
+- Databases: PostgreSQL, MySQL  
+- Tools: Git, GitHub Actions  
 
 ## Connect with me
 
